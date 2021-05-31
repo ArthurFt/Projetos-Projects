@@ -35,3 +35,4 @@ while True:
                 print(f'{horas}:{minu}:0{seg}')
             else:
                 print(f'{horas}:{minu}:{seg}')
+                
