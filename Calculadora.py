@@ -23,3 +23,6 @@ if escolha == '4':
     b = int(input('Segundo número:'))
     multiplicacao = a * b
     print('multiplicar {} e {} é igual a {}'.format(a, b, multiplicacao))
+
+else:
+    print('Não entendi, tente novamente. . .')
